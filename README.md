@@ -2,6 +2,7 @@
 ##AIM
 Aim of the Work
 The primary aim of this work was to provide a foundational understanding and practical demonstration of data handling and initial exploratory data analysis (EDA) using the pandas library in Python. The project progressed through two key phases: first, the creation and basic inspection of a synthetic dataset to illustrate fundamental DataFrame operations, and second, the loading and comprehensive initial exploration of a real-world dataset (Cars93) to showcase essential techniques for understanding data structure, quality, and characteristics. Ultimately, the goal was to equip a user with the basic toolkit necessary to ingest data, perform preliminary checks, and identify areas for further data cleaning and analysis, which are crucial steps in any data science workflow.
+
 ##THEORY
 Theoretical Context and Methods
 The theoretical underpinnings of this work are rooted in fundamental data manipulation and exploratory data analysis (EDA) principles. The pandas library serves as the core tool, leveraging its powerful DataFrame object as the primary data structure for tabular data.
